@@ -167,16 +167,16 @@ This bot is an independent creation and is not affiliated in any way with Discor
 <br>
 
 <h2 align="center"><strong> Used Libraries </strong></h2>
-| Libraries | Badge     | Libraries | Badge     |
-| :-------- | :------- | :-------- | :------- |
-| discord.js      | ![badge](https://img.shields.io/badge/v13.5.0-0D7FC0?label=npm) | @androz2091/discord-invites-tracker      | ![badge](https://img.shields.io/badge/v1.1.1-0D7FC0?label=npm) |
-| @discordjs/rest      | ![badge](https://img.shields.io/badge/v1.4.0-0D7FC0?label=npm) | await      | ![badge](https://img.shields.io/badge/v0.2.6-0D7FC0?label=npm) |
-| canvacord      | ![badge](https://img.shields.io/badge/v5.4.8-0D7FC0?label=npm) | colors      | ![badge](https://img.shields.io/badge/v1.4.0-0D7FC0?label=npm) |
-| discord-api-types      | ![badge](https://img.shields.io/badge/v0.37.11-0D7FC0?label=npm) | discord-backup      | ![badge](https://img.shields.io/badge/v3.3.2-0D7FC0?label=npm) |
-| discord-fetch-all      | ![badge](https://img.shields.io/badge/v3.0.2-0D7FC0?label=npm) | discord-giveaways      | ![badge](https://img.shields.io/badge/v5.0.1-0D7FC0?label=npm) |
-| moment      | ![badge](https://img.shields.io/badge/v2.29.4-0D7FC0?label=npm) | mongoose      | ![badge](https://img.shields.io/badge/v6.6.2-0D7FC0?label=npm) |
-| ms      | ![badge](https://img.shields.io/badge/v3.0.0-canary.1-0D7FC0?label=npm) | parsec      | ![badge](https://img.shields.io/badge/v2.0.2-0D7FC0?label=npm) |
-| quick.db      | ![badge](https://img.shields.io/badge/v7.1.1-0D7FC0?label=npm) |
+| Libraries | Badge | Libraries | Badge | 
+| :-------- | :------- | :-------- | :------- | 
+| discord.js | ![badge](https://img.shields.io/badge/v13.5.0-0D7FC0?label=npm) | @androz2091/discord-invites-tracker | ![badge](https://img.shields.io/badge/v1.1.1-0D7FC0?label=npm) | 
+| @discordjs/rest | ![badge](https://img.shields.io/badge/v1.4.0-0D7FC0?label=npm) | await | ![badge](https://img.shields.io/badge/v0.2.6-0D7FC0?label=npm) |
+| canvacord | ![badge](https://img.shields.io/badge/v5.4.8-0D7FC0?label=npm) | colors | ![badge](https://img.shields.io/badge/v1.4.0-0D7FC0?label=npm) |
+ | discord-api-types | ![badge](https://img.shields.io/badge/v0.37.11-0D7FC0?label=npm) | discord-backup | ![badge](https://img.shields.io/badge/v3.3.2-0D7FC0?label=npm) |
+| discord-fetch-all | ![badge](https://img.shields.io/badge/v3.0.2-0D7FC0?label=npm) | discord-giveaways | ![badge](https://img.shields.io/badge/v5.0.1-0D7FC0?label=npm) |
+| moment | ![badge](https://img.shields.io/badge/v2.29.4-0D7FC0?label=npm) | mongoose | ![badge](https://img.shields.io/badge/v6.6.2-0D7FC0?label=npm) |
+| ms | ![badge](https://img.shields.io/badge/v3.0.0-canary.1-0D7FC0?label=npm) | parsec | ![badge](https://img.shields.io/badge/v2.0.2-0D7FC0?label=npm) | 
+| quick.db | ![badge](https://img.shields.io/badge/v7.1.1-0D7FC0?label=npm) |
 
 <br>
 
