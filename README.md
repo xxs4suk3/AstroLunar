@@ -167,6 +167,7 @@ This bot is an independent creation and is not affiliated in any way with Discor
 <br>
 
 <h2 align="center"><strong> Used Libraries </strong></h2>
+
 | Libraries | Badge | Libraries | Badge | 
 | :-------- | :------- | :-------- | :------- | 
 | discord.js | ![badge](https://img.shields.io/badge/v13.5.0-0D7FC0?label=npm) | @androz2091/discord-invites-tracker | ![badge](https://img.shields.io/badge/v1.1.1-0D7FC0?label=npm) | 
