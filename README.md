@@ -34,7 +34,7 @@
 
     - [Git](https://git-scm.com/downloads)
 
-    ![git-badge](https://img.shields.io/badge/v202.42.0-orange?style=for-the-badge&logo=Git&label=Git)
+    ![git-badge](https://img.shields.io/badge/v2.02.42.0-orange?style=for-the-badge&logo=Git&label=Git)
 
     - [VSCode](https://code.visualstudio.com/download)
 
