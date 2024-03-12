@@ -59,7 +59,7 @@
          - Select the free version. *"If you have the premium, much better"* Select which region your server will be in.
          - Copy the password that appears on the next screen, also save it in a safe place, slide the screen and press: ***Finish and Close***
          - Now go to the ***Database*** section and press ***Connect***, now press ***Drivers*** and copy what you put in section 3, remember to put it in a safe place, Now close it by pressing: ***Close***.
-         - Now that you have the password and the link, you will only have to change the password in the link. Search for ***`<password>`***` and enter the password you saved previously.
+         - Now that you have the password and the link, you will only have to change the password in the link. Search for ***`<password>`*** and enter the password you saved previously.
      - Since now the *Database* functions are already configured, you can go to the `config.json` file and put in **mongourl** the link that you saved before.
      - Configure the prefix and let's go to the next configuration.
     
@@ -134,7 +134,7 @@
         - Seleccion la version gratuita. *"Si tiene la premium mucho mejor"* Seleccione en que región estara su servidor.
         - Copia la contraseña y que te aparece en la siguiente pantalla también guardalo en un sitio seguro, desliza la pantalla y pulse: ***Finish and Close***
         - Ahora ve a la sección de ***Database*** y pulse ***Connect***, ahora pulse ***Drivers*** y copie lo que ponga en la sección 3, recuerda ponerlo en un lugar seguro, ahora cierra pulsando: ***Close***.
-        - Ahora ya que tienes la contraseña y el enlace, solo tendras que cambiar en el enlace la contraseña. Busca ***`<password>`***` y pon la contraseña que guardastes anteriormente.
+        - Ahora ya que tienes la contraseña y el enlace, solo tendras que cambiar en el enlace la contraseña. Busca ***`<password>`*** y pon la contraseña que guardastes anteriormente.
     - Ya que ahora las funciones del *Database* ya esta configurado, puedes ir al arhivo `config.json` y ponga en **mongourl** el enlace que guardastes antes.
     - Configura el prefix y vamos a por la siguiente configuración.
     
