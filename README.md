@@ -1,7 +1,7 @@
 <div align="center">
     <h1 align="center"> AstroLunar - Discord Assistant </h1>
     <p align='center'><img src=".github\AstroLunarBanner.gif" width=500 /></p>
-    <h3 align="center"><strong> - FAQ - </strong></h3>
+    <h3 align="center"><strong> FAQ </strong></h3>
     AstroLunar is a bot under development with 45 commands available. Currently, it only works on one server, but we are working to make it usable on several servers with only 3 clicks. See our  <a href="#install"> installation guide</a> !
 </div>
 
@@ -159,7 +159,7 @@
 <br>
 
 <div align="center">
-    <h2 align="center"><strong> - Discord Bot Payment Assistant - </strong></h3>
+    <h2 align="center"><strong> Discord Bot Payment Assistant </strong></h3>
 
 <h3 align="center"><strong> Disclaimer </strong></h3>
 This bot is an independent creation and is not affiliated in any way with Discord or its teams. It has been designed for educational and entertainment purposes. Users are encouraged to use it responsibly and ethically. Any misuse of the bot is strictly prohibited and may result in disciplinary actions. The developer assumes no responsibility for misuse or issues arising from the use of the bot.
