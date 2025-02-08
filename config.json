@@ -1,6 +1,6 @@
 { 
-    "token": "MTIxNDIyOTE2MTAyODM1NDEzOA.GvqW93.xB1zDYAEaT0BY6yA0pjUPt7bcJdCt8mnY3b5ck",
-    "mongourl": "mongodb+srv://bohanjiang09:CxQGn7oegArSIqeX@astrolunar.br56dy0.mongodb.net/?retryWrites=true&w=majority&appName=AstroLunar",
+    "token": "",
+    "mongourl": "",
     "prefix": "!",
     "everyoneMention": false,
     "hostedBy": true,
