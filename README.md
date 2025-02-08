@@ -185,5 +185,4 @@ This bot is an independent creation and is not affiliated in any way with Discor
 This content is protected by copyright and cannot be claimed by any unauthorized individual as their own. If you wish to collaborate, please create a branch or open an issue. Contributions are welcome, but the distribution or sale of this content is strictly prohibited. Proper credits go to the original creators.
 <br>
 <br>
-- If you need help, contact <a href="https://discord.gg/SCAseyr6Jf">AstroLunar Support</a> in Discord -
 </div>
