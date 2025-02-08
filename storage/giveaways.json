@@ -1,0 +1,30 @@
+[
+    {
+        "messageId":"1025229672646184970",
+        "channelId":"890982321572941837",
+        "guildId":"890982321572941834",
+        "startAt":1664504201719,
+        "endAt":1664504211719,
+        "ended":true,
+        "winnerCount":1,
+        "prize":"1rs",
+        "messages":{
+            "giveaway":"🎉 **GIVEAWAY** 🎉",
+            "giveawayEnded":"🎉 **GIVEAWAY ENDED** 🎉",
+            "inviteToParticipate":"**React with 🎉 to participate!**\n>>> - Only members having <@&891147833628045362> are allowed to participate in this giveaway!",
+            "winMessage":"Congratulations, {winners}! You won **{this.prize}**!",
+            "drawing":"Ends: **{timestamp}**",
+            "dropMessage":"Be the first to react with 🎉 !",
+            "embedFooter":"Giveaways",
+            "noWinner":"Giveaway cancelled, no valid participations.",
+            "winners":"winner(s)",
+            "endedAt":"Ended at",
+            "hostedBy":"Hosted by: {this.hostedBy}"
+        },
+        "bonusEntries":"[{\"bonus\":function anonymous(member\n) {\nreturn member.roles.cache.some((r) => r.name === 'undefined') ? null : null\n},\"cumulative\":false}]",
+        "extraData":{
+            "server":"null",
+            "role":"891147833628045362"
+        }
+    }
+]
